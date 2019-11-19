@@ -2,7 +2,7 @@
   "patients": [
     [
       {
-        "id": "3f44ee48-c04f-40c6-bdc7-312a9ad81774",
+        "id": 1,
         "name": "Joe Blow",
         "dob": "1970-04-01",
         "pulses": [
@@ -29,7 +29,7 @@
         ]
       },
       {
-        "id": "92b6b229-03f7-4bf3-abc1-5df3851edc23",
+        "id": 2,
         "name": "Jane Doe",
         "dob": "1999-12-31",
         "pulses": [
